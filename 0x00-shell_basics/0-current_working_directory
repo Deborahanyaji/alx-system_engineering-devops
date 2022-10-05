@@ -1,0 +1,10 @@
+#!/bin/bash
+pwd
+echo 0-current_working_directory.sh
+#!/bin/bash
+echo #!/bin/bash 
+pwd
+chmod u+x _0-current_working_directory
+git add .
+clear
+clear
